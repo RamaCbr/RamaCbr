@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey👋!, I'm Ramiro Cabrera</h1>
+<h1 align="center">Hey!👋, I'm Ramiro Cabrera</h1>
 <h3 align="center">A passionate JavaScript Full Stack developer</h3>
 
 - 🔭 I’m currently working as **freelancer**
