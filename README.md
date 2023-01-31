@@ -1,6 +1,8 @@
 <h1 align="center">Hey!👋, I'm Ramiro Cabrera</h1>
 <h3 align="center">A passionate JavaScript Full Stack developer</h3>
 
+![Ramiro image](https://lh3.googleusercontent.com/IagxWBb1ZjujL4531IHwvaCHz44DEDDc_sOXRZe754IvM7BeQrf8hgSOXWtWUe2jRwh2or42Gnb1Sn1inHFHgQ3CLvKcjvQp3tdffwL9V4uR1C0_0eCft3GehB0_Iiccoc_gjfq-lypGNnoCBKQT8YCNhRBF9ZmX6pe9tXJbzAe2tZeY0vKa1CKyaTuLph0GZSobt5CliGh0kyxT--UG-af7L0QifD6rl0o4wvDHBjuSvvRTwp_bAeu0clkZIfgGJs39G1qR_y1W_PzLyFBsxkFZlBX2UnPGY1dCn73Qx5dCiyw2rVLHd71S-kinTcE7iT5keZZ-Q0dLLL3xyz43IGLDDDdmjghS3OLhandCXq3JUhluc5m3K83V1uW5fGBJvdVgycOjWX40M_Llhh3pKS_ZJTHFzl3Gpxa9ztpiawXRhPs7uXeakzFV-b1qmyrig1rKCM3RAbLu9Ssh-t1V5-8jgiBYXttB7fWj6xg2HkKpkYOWFGGEyZzzxL2tIFE7mMzCle5KHFopARzwyqD2-AEHVfoYRasvasYb-XCJDVyd2uPJukoTdH7eoHwilvkb_yIKPJWbm4VPjN96lopk2IbCYcjeqfH3Scc9yGDEgEn3RDGoMspyry65jstZbeWiaQ97dCfomqDTgJieVHoSV3lY9TbTaI3pH8SGvmjuNxizYjNAGdlbrDrhCL9T8XP8EEcG63EBc1rZaTeD4Zs2WfVu3KZZ2I91XHXWwinVcopJSiaxsJND8pLbJ0WRRCivEtHDKL3wWS-MzJCstsHe4OpwHpYLJ3NDL-VCT9nEdMamS3M1tZR3y-tbIPzGtDKtAofxqZ_4hhICJKak_UFkpVBrHi-yWENDaENBdP9fDCtIPtULhqr74IaZjS85Zfyau5gO2nhj9UYUKRqtqTCUD6dZX0iKxjoizt3b1qdqnxCHewhpT7TrC3jAZEM1fHOZwheBOi77cKkVBIETRcMaxW0MIQSSnvqzo88Ta6vClb6A1gQ1xDOA=w355-h629-no?authuser=1)
+
 - 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **PWA, Testing & CI/CD**
@@ -10,9 +12,13 @@
 - 📫 How to reach me **ramacbr.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rama_cbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rama_cbr" height="30" width="40" /></a>
-<a href="https://instagram.com/rama_cbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rama_cbr" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://twitter.com/Rama_Cbr" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Twitter - Ramiro Cabrera" height="28px" width="28px" />
+    </a>
+    <a href="https://www.instagram.com/rama_cbr/" target=""blank" style="margin: 0 20px; >
+      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Ramiro Cabrera" height="28px" width="28px" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
