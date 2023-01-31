@@ -18,8 +18,8 @@
     <a href="https://twitter.com/Rama_Cbr" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Twitter - Ramiro Cabrera" height="28px" width="28px" />
     </a>
-    <a href="https://www.instagram.com/rama_cbr/" target=""blank" style="margin: 0 20px; >
-      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Ramiro Cabrera" height="28px" width="28px" />
+    <a href="https://www.instagram.com/rama_cbr/" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Instagram - Ramiro Cabrera" height="28px" width="28px" />
     </a>
 </p>
 
