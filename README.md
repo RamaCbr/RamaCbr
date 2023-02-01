@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-    <a href="https://twitter.com/Rama_Cbr" target="blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Twitter - Ramiro Cabrera" height="28px" width="28px" />
+    <a href="https://www.linkedin.com/in/ramacbr/" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn - Ramiro Cabrera" height="28px" width="28px" />
     </a>
     <a href="https://www.instagram.com/rama_cbr/" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Instagram - Ramiro Cabrera" height="28px" width="28px" />
